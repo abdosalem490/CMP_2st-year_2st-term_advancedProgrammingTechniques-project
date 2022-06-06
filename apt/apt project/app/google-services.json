@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880896466260",
+    "project_id": "serach-engine-64aed",
+    "storage_bucket": "serach-engine-64aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880896466260:android:c203a8369a016caf45fcc1",
+        "android_client_info": {
+          "package_name": "com.abdosalm.serachengine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880896466260-laejkjlj6baqdndvre8lj9hcs7udd59l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuWm5mDgH6a1Mj9Ch8x1WJCS_JzupebE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880896466260-laejkjlj6baqdndvre8lj9hcs7udd59l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

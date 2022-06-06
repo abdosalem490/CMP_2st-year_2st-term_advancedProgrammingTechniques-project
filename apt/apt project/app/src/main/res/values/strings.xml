@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Doodle</string>
+    <string name="ground">sss</string>
+    <string name="sign_in_as_random_user">Sign in as Random User</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_as_admin">Sign In as Admin</string>
+    <string name="enter_user_name">Enter Your Email</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="copy_rights">Copy Rigts</string>
+    <string name="logout">Log out</string>
+    <string name="copy_rights_text">all Rights reserved for Team 10 apt project\u00A9 2024\n
+                                    team members email contacts :
+                                    <a href="abdosalm555@gmail.com">abdosalm555@gmail.com</a>
+                                    <a href="omarkh200165@gmail.com">omarkh200165@gmail.com</a>
+                                    <a href="ahmed.fawzy5.5111@gmail.com">ahmed.fawzy5.5111@gmail.com</a>
+                                    <a href="nadaosman20022002@gmail.com">nadaosman20022002@gmail.com</a>
+    </string>
+    <string name="see_more">See more</string>
+
+    <string-array name="spinner_array">
+        <item>العربية</item>
+        <item>English</item>
+    </string-array>
+</resources>
